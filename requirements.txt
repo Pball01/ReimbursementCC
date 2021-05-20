@@ -1,3 +1,7 @@
 pandas
 numpy
 plotly
+streamlit
+altair
+matplotlib
+datetime
